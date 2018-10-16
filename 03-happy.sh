@@ -15,7 +15,7 @@ read answer
 if [ "$answer" = "yes" ]; then
    echo "Smile :)"
 else
-   echo "Don't Smile :)"
+   echo "Don't Smile Biotch :)"
 fi
 
 # here are the other string comparison operators
